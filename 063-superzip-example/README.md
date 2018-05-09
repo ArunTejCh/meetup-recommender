@@ -1,4 +1,4 @@
-# SuperZIP demo
+# Meetup Recommender
 
 See a version of it live at http://shiny.rstudio.com/gallery/superzip-example.html
 
